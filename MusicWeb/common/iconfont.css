@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2685926 */
+  src: url('~@/static/iconfont/iconfont.woff2?t=1626706209819') format('woff2'),
+       url('~@/static/iconfont/iconfont.woff?t=1626706209819') format('woff'),
+       url('~@/static/iconfont/iconfont.ttf?t=1626706209819') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-iconfontfenxiang:before {
+  content: "\e606";
+}
+
+.icon-dianzan:before {
+  content: "\e607";
+}
+
+.icon-bofang:before {
+  content: "\e62c";
+}
+
+.icon-dianzan1:before {
+  content: "\e60c";
+}
+
+.icon-zanting:before {
+  content: "\e656";
+}
+
+.icon-fangdajing:before {
+  content: "\e633";
+}
+
+.icon-yousanjiao:before {
+  content: "\e629";
+}
+
+.icon-lajixiang:before {
+  content: "\e804";
+}
+
+.icon-zanting1:before {
+  content: "\e618";
+}
+
+.icon-right-s:before {
+  content: "\e627";
+}
+
+.icon-weibiaoti-:before {
+  content: "\e60e";
+}
+
+.icon-guanbi:before {
+  content: "\e61a";
+}
+
+.icon-shouye:before {
+  content: "\e608";
+}
+
+.icon-changyongtubiao-fuben-24:before {
+  content: "\e609";
+}
+
